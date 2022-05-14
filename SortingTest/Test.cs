@@ -10,7 +10,7 @@ using System.Linq;
 namespace SortingTest
 {
     [TestClass]
-    public class UnitTest1
+    public class Test
     {
         [TestMethod]
         public void BubbleSort_text()
